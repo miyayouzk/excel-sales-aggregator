@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Output files
+output/
+
+# Excel temp files
+~$*.xlsx
+
+# OS
+.DS_Store
